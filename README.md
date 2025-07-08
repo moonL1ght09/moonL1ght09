@@ -1,16 +1,38 @@
-## Hi there 👋
+## 🌙 Merhaba! Ben Gülden
 
-<!--
-**moonL1ght09/moonL1ght09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web tasarımı ve yazılım dünyasına yeni adım attım ve tutkuyla öğreniyorum.  
+Şu an **HTML, CSS ve Git/GitHub** konularında kendimi geliştiriyorum.  
 
-Here are some ideas to get you started:
+📍 Türkiye'den İsviçre'ye uzanan bir yolculuktayım...  
+👩‍👧 Anneyim ve aynı zamanda öğrenmekten asla vazgeçmeyen bir öğrenciyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Öğrendiğim Teknolojiler:
+- HTML
+- CSS
+- Git & GitHub
+- VS Code
+
+---
+
+### 🎯 Hedeflerim:
+- Frontend Developer olmak
+- Kendi portföy sitemi oluşturmak
+- Açık kaynak projelere katkı sunmak
+
+---
+
+### ✨ Devam Eden Projeler:
+- Kişisel Web Sayfam
+- Hava Durumu Uygulaması
+- GitHub Pages üzerinden yayınlanan portföy
+
+---
+
+### 📫 Bana Ulaşmak İçin:
+- e-posta: sulecgulden@gmail.com
+
+---
+
+> “Her yeni satır kod, geleceğime atılan bir adımdır.” 🚀
