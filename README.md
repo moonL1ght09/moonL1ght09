@@ -3,7 +3,6 @@
 Web tasarımı ve yazılım dünyasına yeni adım attım ve tutkuyla öğreniyorum.  
 Şu an **HTML, CSS ve Git/GitHub** konularında kendimi geliştiriyorum.  
 
-📍 Türkiye'den İsviçre'ye uzanan bir yolculuktayım...  
 👩‍👧 Anneyim ve aynı zamanda öğrenmekten asla vazgeçmeyen bir öğrenciyim.
 
 ---
